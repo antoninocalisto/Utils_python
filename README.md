@@ -56,7 +56,7 @@ python code_create_border_sintetic.py
 Summary of descriptions of existing repositories in this project for better search location:
 
 1. **sintetic_bord_3D** 
-    <p> <i>Code to create sintetic border in slicers of files of format .DCM_<i></p>
+    <p> <i>Code to create sintetic border in slicers of files of format .DCM<i></p>
 
 2. 
 
