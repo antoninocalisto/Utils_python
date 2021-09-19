@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> This project (WHICH IS STILL IN DEVELOPMENT) was created with the intention of contribute to the research of the phd student Antonino Calisto. The intention of the code is create one repository that covers the subjects of image processing 2D, 3D, data analysis, deep learnings, data processing, between others. 
+> This project (WHICH IS STILL IN DEVELOPMENT) was created with the intention of contribute to the research of the Phd student Antonino Calisto. The intention of the code is create one repository that covers the subjects of image processing 2D, 3D, data analysis, deep learnings, data processing, that is, the most diverse issues of my day-to-day related to python or my Phd. 
 
 ### 🏠 [Homepage](https://antoninocalisto.github.io/Utils_python)
 
@@ -51,6 +51,15 @@ git push
 ```sh
 python code_create_border_sintetic.py
 ```
+
+## Summary
+Summary of descriptions of existing repositories in this project for better search location:
+
+1. **sintetic_bord_3D** 
+_Code to create sintetic border in slicers of files of format .DCM_
+
+2. 
+
 ## Author
 
 👤 **Antonino Calisto**
