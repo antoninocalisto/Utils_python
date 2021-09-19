@@ -58,7 +58,7 @@ Summary of descriptions of existing repositories in this project for better sear
 1. **sintetic_bord_3D** 
     <p> <i>Code to create sintetic border in slicers of files of format .DCM<i></p>
 
-2. 
+2. **[In progress ...]**
 
 ## Author
 
