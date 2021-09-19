@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> This project was created with the intention of contribuied to the research of the phd student Antonino Calisto. The intention of the code is create one repository that covers the subjects of image processing 2D, 3D, data analysis, deep learnings, data processing, between others. 
+> This project was created with the intention of contribute to the research of the phd student Antonino Calisto. The intention of the code is create one repository that covers the subjects of image processing 2D, 3D, data analysis, deep learnings, data processing, between others. 
 
 ### 🏠 [Homepage](https://antoninocalisto.github.io/Utils_python)
 

@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> This project was created with the intention of contribuied to the research of the phd student Antonino Calisto. The intentition of the code is create sintetic border in slicers of files of format '.DCM'. 
+> This project was created with the intention of contribute to the research of the phd student Antonino Calisto. The intentition of the code is create sintetic border in slicers of files of format '.DCM'. 
 
 ### 🏠 [Homepage](https://antoninocalisto.github.io/Utils_python/sintetic_bord_3D)
 
