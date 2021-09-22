@@ -1,13 +1,7 @@
-import glob
-import numpy as np
-import cv2
-import pydicom
+
 #from myshow import *
 import SimpleITK as sitk
-from sklearn.preprocessing import MinMaxScaler
-import subprocess, os
-from PIL import Image, ImageOps
-import fnmatch
+
 
 
 name_volume = "path_1/Volume/_1.mha"
