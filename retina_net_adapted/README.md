@@ -1,4 +1,4 @@
-<h1 align="center">AlexNet to image processing 3D</h1>
+<h1 align="center">Retina Net to image processing 3D</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-Primeira versão-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/antoninocalisto/Utils_python#readme" target="_blank">
@@ -31,10 +31,10 @@ git clone https://github.com/antoninocalisto/Utils_python.git
 2. Each project has its specific library, so you must enter the project and install the individual libraries of each code you need to use, for example, value enter the code folder for creating synthetic borders in slices of volumes (3D) of exams in .DCM format:
 
 ```sh
-cd Utils_python/Alex_net_adapted/
+cd Utils_python/retina_net_adapted/
 ```
 
-3. Inside the folder, you must install the SimpleITK and Numpy libraries needed to run the code from the 'alexnet.py' file:
+3. Inside the folder, you must install the SimpleITK and Numpy libraries needed to run the code from the 'RetinaNet.py' file:
 ```sh
 pip install SimpleITK
 pip install numpy
@@ -49,7 +49,7 @@ git push
 
 ## Run tests
 ```sh
-python alexnet.py
+python RetinaNet.py
 ```
 
 ## Summary
